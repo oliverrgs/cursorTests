@@ -11,7 +11,7 @@ import javafx.scene.paint.PhongMaterial;
 import javafx.scene.AmbientLight;
 import javafx.scene.PointLight;
 import javafx.scene.layout.Pane;
-
+//TESTX
 public class Cube3D extends Application {
     @Override
     public void start(Stage primaryStage) {
